@@ -68,16 +68,16 @@ body {
     font-size: 14px;
 }
 
-.inf-link {
+.inf-link a{
     font-weight: 800;
-    font-size: 1.3em;
+    font-size: 1em;
     text-decoration: none;
     cursor: pointer;
     color: var(--black);
     transition: color .3s ease;
 }
 
-.inf-link:hover  {
+.inf-link a:hover  {
     color: var(--yellow);
 }
 
